@@ -1,2 +1,2 @@
 #git_practice
-Hello world and human beeing 
+Hello world and human beeing # KatalonGitTest
